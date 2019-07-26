@@ -7,5 +7,6 @@ sudo apt -y install nodejs npm
 sudo npm install -g npm 
 sudo npm install -g n
 sudo n stable
-sudo apt install mysql-server
+sudo apt -y install mysql-server
+sudo apt -y install redis
 
