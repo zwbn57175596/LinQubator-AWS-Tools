@@ -19,5 +19,5 @@ sudo npm install -g cross-env
 
 sudo apt -y install mysql-server
 sudo apt -y install redis
-sudo apt install nginx-full
+sudo apt -y install nginx-full
 
