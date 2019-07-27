@@ -7,6 +7,9 @@ sudo apt -y install nodejs npm
 sudo npm install -g npm 
 sudo npm install -g n
 sudo n stable
+sudo npm install nodemon -g
+sudo npm install -g babel-cli
+sudo npm install -g cross-env
 sudo apt -y install mysql-server
 sudo apt -y install redis
 
